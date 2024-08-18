@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anvee Deshpande</h1>
-<h3 align="center">I’m Aspiring Software Developer.</h3>
+<h3 align="center"> Aspiring Software Developer.</h3>
+
+<p>
+<h4 align="center"> 👨‍💻 I’m a final-year Computer Engineering student, dedicated to leveraging my problem-solving skills and creativity to develop innovative software solutions. With a strong foundation in Java, I am passionate about applying my skills to real-world challenges.As I prepare to transition from student to professional, I’m looking forward to use my problem-solving abilities and technical skills to tackle new challenges and drive impactful solutions in the industry. </h4>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnveeND](https://github.com/AnveeND)
+
 
 - 📫 How to reach me **deshpandeanvee@gmail.com**
 
